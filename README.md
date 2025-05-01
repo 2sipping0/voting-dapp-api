@@ -30,7 +30,7 @@ This application consists of:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/voting-dapp-api.git
+   git clone https://github.com/2sipping0/voting-dapp-api.git
    cd voting-dapp-api
    ```
 
